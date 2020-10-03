@@ -1,0 +1,16 @@
+@import "http://fonts.googleapis.com/css?family=Open+Sans:400,300,600";
+
+body, html {
+    font-family: 'Open sans';
+}
+
+.menu.accordion-menu a {
+  display: flex;
+  align-items: center;
+
+  span.menu-icon {
+    margin-bottom: 0;
+    margin-right: 10px;
+    font-size: 15px;
+  }
+}

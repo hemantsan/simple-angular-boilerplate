@@ -1,0 +1,14 @@
+.navbar-expand .navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+
+    img {
+        margin-right: 5px;
+    }
+}
+
+.nav-item.dropdown {
+    .dropdown-item {
+        cursor: pointer;
+    }
+}
